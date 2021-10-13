@@ -15,5 +15,6 @@ if a or b or c:
 if any((a, b, c)):
   print('passed')
 
-
   
+
+
